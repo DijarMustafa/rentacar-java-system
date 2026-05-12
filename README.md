@@ -1,7 +1,7 @@
 # Rent A Car System
 
 Ky është një projekt i thjeshtë i zhvilluar në Java si pjesë e kursit në ICK.
-
+Per Hapjen e Projektit File rent.rar i paraqitur tek RENT duhet te behet Extract per ta shikuar si kod ne intelliJ
 ## Përshkrimi
 Aplikacioni lejon përdoruesin të:
 - zgjedh veturën nga lista
